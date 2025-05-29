@@ -16,5 +16,5 @@ public class Oops {
     }
     // Object Oriented Programming
     // Object - Properties and Behaviour
-    // Class -
+    // Class
 }
